@@ -3,7 +3,7 @@
 Check out the [ideas](ideas/) list.
 
 If at any point you are lost or don't find something, feel free to ask us in the chat:
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bio4j/bio4j?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bio4j/gsoc15?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ### Documentation about Google Summer of Code
 
