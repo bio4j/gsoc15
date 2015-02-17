@@ -3,7 +3,7 @@
 - **difficulty** _medium_
 - **technologies** _aws, s3, ec2, orientdb, scala, java_
 
-Given the caracteristics of OrientDB (it's one of the few databases that can support local indexes, see orientechnologies/orientdb#1895 a specific implementation would be really interesting: There is even interest on their side on using bio4j as a benchmark.
+Given the caracteristics of OrientDB (it's one of the few databases that can support local indexes, see https://github.com/orientechnologies/orientdb/issues/1895 a specific implementation would be really interesting: There is even interest on their side on using bio4j as a benchmark.
 
 ### Expected outcome
 
