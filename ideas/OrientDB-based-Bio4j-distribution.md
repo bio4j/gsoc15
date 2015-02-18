@@ -22,4 +22,4 @@ A Bio4j distribution based in OrientDB, taking advantage of all its specific fea
 - **[@eparejatobes](https://github.com/eparejatobes)** (<mailto:eparejatobes@ohnosequences.com>)
 - **[??? someone from OrientDB](???)**
 
-If you are interested ask on ![](https://gitter.im/bio4j/gsoc15?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+If you are interested ask on the **[bio4j/gsoc15](https://gitter.im/bio4j/gsoc15?utm_source=share-link&utm_medium=link&utm_campaign=share-link)** gitter channel.
