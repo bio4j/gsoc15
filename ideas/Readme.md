@@ -5,7 +5,10 @@ This is the list of ideas that we propose; this does not mean that you are force
 1. [OrientDB-based Bio4j distribution](OrientDB-based-Bio4j-distribution.md)
 1. [Integrate sequence data into Bio4j](Integrate-sequence-data-into-Bio4j.md)
 1. [AWS based Bio4j specific CI platform](AWS-based-Bio4j-specific-CI-platform.md)
+1. [Integrate Reactome into Bio4j](Integrate-Reactome-into-Bio4j.md)
+1. [Neo4j-based Bio4j distribution](Neo4j-based-Bio4j-distribution.md)
 1. [Incorporate range-based and genomics data into Bio4j](https://github.com/bio4j/gsoc14/issues/15)
+1. [Angulillos and TinkerPop 3](Angulillos-and-tinkerpop3.md)
 
 
 ### Submitting your proposal
