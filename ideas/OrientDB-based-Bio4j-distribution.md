@@ -2,17 +2,24 @@
 
 - **difficulty** _medium_
 - **technologies** _aws, s3, ec2, orientdb, scala, java_
+- **one-sentence description** _make possible to use Bio4j with OrientDB as a backend_
 
-Given the caracteristics of OrientDB _(it's one of the few databases that can support local indexes, see https://github.com/orientechnologies/orientdb/issues/1895 )_ a specific implementation would be really interesting: There is even interest on their side on using bio4j as a benchmark.
+[OrientDB](www.orientechnologies.com/orientdb/) is one of the few open source graph databases that supports [local indexes](https://github.com/orientechnologies/orientdb/issues/1895) and has a pretty comprehensive API for [graph schemas](http://www.orientechnologies.com/docs/last/orientdb.wiki/Schema.html). From the OrientDB point of view, Bio4j and its peculiar needs is certainly an interesting opportunity to showcase their flexibility to accomodate wildly different scenarios.
+
+All the Bio4j code is based on [bio4j/angulillos](https://github.com/bio4j/angulillos), which you can think of as a strongly typed version of Blueprints/tinkerpop. The first part of the project then will consist on developing **bio4j/angulillos-orientdb**, a working OrientDB-based implementation of the angulillos API. You can take a look at [bio4j/angulillos-titan](https://github.com/bio4j/angulillos-titan) for something equivalent done for [Titan](http://thinkaurelius.github.io/titan/).
+
+Once this is done, you will need to work on implementing all the schema management and type definition/initialization of the Bio4j graph, using **bio4j/angulillos-orientdb**. Again, the titan Bio4j distribution is a good example as to what this would look like: [bio4j/bio4j-titan](https://bio4j.com/bio4j/bio4j-titan). 
+
+As an extra bonus, and if you have enough Scala skills you could do the equivalent tasks for our Scala API.
 
 ### Expected outcome
 
-A bio4j distribution based in OrientDB, taking advantage of all its specific features. This will include the corresponding AWS import, data distribution and deployment infrastructure. At least the core UniProtKB module should be implemented
+A Bio4j distribution based in OrientDB, taking advantage of all its specific features.
 
 ### Mentors
 
 - **[@pablopareja](https://github.com/pablopareja)** (<mailto:ppareja@ohnosequences.com>)
-- **[@laughedelic](https://github.com/laughedelic)** (<mailto:aalekhin@ohnosequences.com>)
+- **[@eparejatobes](https://github.com/eparejatobes)** (<mailto:eparejatobes@ohnosequences.com>)
+- **[??? someone from OrientDB](???)**
 
-
-This idea is from [GSoC-2014](https://github.com/bio4j/gsoc14/wiki/OrientDB-based-bio4j-distribution).
+If you are interested ask on ![](https://gitter.im/bio4j/gsoc15?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
