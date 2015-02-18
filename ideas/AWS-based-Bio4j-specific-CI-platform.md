@@ -15,10 +15,10 @@ A full-fledged CI solution for bio4j taking into account all the specifics of th
 
 ### Mentors
 
-- **[@laughedelic](https://github.com/laughedelic)** (<mailto:aalekhin@ohnosequences.com>)  
+- **[@laughedelic](https://github.com/laughedelic)** (<mailto:aalekhin@ohnosequences.com>)
   The past few months he has been working developing sbt plugins for automating release proceses and interacting with AWS, and he is the main developer of [Statika](https://github.com/ohnosequences/statika).
 
-- **[@eparejatobes](https://github.com/eparejatobes)** (<mailto:eparejatobes@ohnosequences.com>)  
+- **[@eparejatobes](https://github.com/eparejatobes)** (<mailto:eparejatobes@ohnosequences.com>)
   He's been designing and coordinating @laughedelic's work on Statika and sbt.
 
-This idea is from [GSoC-2014](https://github.com/bio4j/gsoc14/wiki/AWS-based-bio4j-specific-CI-platform).
+  If you are interested ask on the **[bio4j/gsoc15](https://gitter.im/bio4j/gsoc15?utm_source=share-link&utm_medium=link&utm_campaign=share-link)** gitter channel.

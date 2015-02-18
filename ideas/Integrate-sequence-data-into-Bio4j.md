@@ -19,9 +19,9 @@ A/some bio4j module/s providing access to sequence-based data linked with bio4j 
 
 ### Mentors
 
-- **[@evdokim](https://github.com/evdokim)** (<mailto:ekovach@ohnosequences.com>)  
+- **[@evdokim](https://github.com/evdokim)** (<mailto:ekovach@ohnosequences.com>)
     He's working right now on the development of cloud-based tools for metagenomics analysis using Bio4j, and on novel approaches to sequence indexing based on distributed weighted transducers.
-- **[@eparejatobes](https://github.com/eparejatobes)** (<mailto:eparejatobes@ohnosequences.com>)  
+- **[@eparejatobes](https://github.com/eparejatobes)** (<mailto:eparejatobes@ohnosequences.com>)
     He's supervising @evdokim's work on this.
 
-This idea is from [GSoC-2014](https://github.com/bio4j/gsoc14/wiki/integrate-sequence-data-into-bio4j).
+If you are interested ask on the **[bio4j/gsoc15](https://gitter.im/bio4j/gsoc15?utm_source=share-link&utm_medium=link&utm_campaign=share-link)** gitter channel.
