@@ -12,7 +12,7 @@ A bio4j distribution based in OrientDB, taking advantage of all its specific fea
 ### Mentors
 
 - **[@pablopareja](https://github.com/pablopareja)** (<mailto:ppareja@ohnosequences.com>)
-- **[@laughedelic](https://github.com/laughedelic)** (<mailto:aalekhin@ohnosequences.com>)  
+- **[@laughedelic](https://github.com/laughedelic)** (<mailto:aalekhin@ohnosequences.com>)
 
 
 This idea is from [GSoC-2014](https://github.com/bio4j/gsoc14/wiki/OrientDB-based-bio4j-distribution).
