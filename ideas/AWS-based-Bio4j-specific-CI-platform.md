@@ -13,12 +13,10 @@ Interacting with Amazon Web Services (mainly S3 and EC2) will be a critical part
 
 A full-fledged CI solution for bio4j taking into account all the specifics of the bio4j platform.
 
-### Mentors
+### Possible mentors
 
 - **[@laughedelic](https://github.com/laughedelic)** (<mailto:aalekhin@ohnosequences.com>)
-  The past few months he has been working developing sbt plugins for automating release proceses and interacting with AWS, and he is the main developer of [Statika](https://github.com/ohnosequences/statika).
-
 - **[@eparejatobes](https://github.com/eparejatobes)** (<mailto:eparejatobes@ohnosequences.com>)
-  He's been designing and coordinating @laughedelic's work on Statika and sbt.
+- **[@evodkim](https://github.com/evdokim)** (<mailto:ekovach@ohnosequences.com>)
 
-  If you are interested ask on the **[bio4j/gsoc15](https://gitter.im/bio4j/gsoc15?utm_source=share-link&utm_medium=link&utm_campaign=share-link)** gitter channel.
+If you are interested ask on the **[bio4j/gsoc15](https://gitter.im/bio4j/gsoc15?utm_source=share-link&utm_medium=link&utm_campaign=share-link)** gitter channel, or to any of the possible mentors.
