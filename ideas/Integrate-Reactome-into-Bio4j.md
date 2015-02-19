@@ -13,9 +13,7 @@ A biology/bioinformatics background would be almost necessary; you should be abl
 
 A/some bio4j module/s providing access to Reactome data linked with bio4j model entities. 
 
-### Mentors
-
-Some of the mentors that might be involved in the idea
+### Possible mentors
 
 - **[@epareja](https://github.com/epareja)** (<mailto:epareja@era7.com>)
     He's got a strong background in human biology and special interest in human signalling pathways.
