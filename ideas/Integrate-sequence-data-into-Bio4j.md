@@ -21,5 +21,6 @@ A/some bio4j module/s providing access to sequence-based data linked with bio4j 
 
 - **[@evdokim](https://github.com/evdokim)** (<mailto:ekovach@ohnosequences.com>)
 - **[@eparejatobes](https://github.com/eparejatobes)** (<mailto:eparejatobes@ohnosequences.com>)
+- **[@alberskib](https://github.com/alberskib)** (<mailto:alberskib@gmail.com>)
 
 If you are interested ask on the **[bio4j/gsoc15](https://gitter.im/bio4j/gsoc15?utm_source=share-link&utm_medium=link&utm_campaign=share-link)** gitter channel, or to any of the possible mentors.
