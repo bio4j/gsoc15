@@ -17,11 +17,9 @@ In terms of implementing something giving the user the possibility of making que
 
 A/some bio4j module/s providing access to sequence-based data linked with bio4j model entities. A more deep integration for **protein** sequences, allowing the user to query sequence composition, together with the integration of domain specific tools such as BLAST.
 
-### Mentors
+### Possible mentors
 
 - **[@evdokim](https://github.com/evdokim)** (<mailto:ekovach@ohnosequences.com>)
-    He's working right now on the development of cloud-based tools for metagenomics analysis using Bio4j, and on novel approaches to sequence indexing based on distributed weighted transducers.
 - **[@eparejatobes](https://github.com/eparejatobes)** (<mailto:eparejatobes@ohnosequences.com>)
-    He's supervising @evdokim's work on this.
 
-If you are interested ask on the **[bio4j/gsoc15](https://gitter.im/bio4j/gsoc15?utm_source=share-link&utm_medium=link&utm_campaign=share-link)** gitter channel.
+If you are interested ask on the **[bio4j/gsoc15](https://gitter.im/bio4j/gsoc15?utm_source=share-link&utm_medium=link&utm_campaign=share-link)** gitter channel, or to any of the possible mentors.
