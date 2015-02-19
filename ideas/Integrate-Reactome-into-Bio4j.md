@@ -3,17 +3,15 @@
 - **difficulty** _medium_
 - **technologies** _aws++, biology++, scala++, java++, git++_
 
-Biological pathways data itself is extremely useful in life sciences basic research as well as in applied research in precision medicine or biotechnology. Graph database technology enables modeling this kind of data in a more similar way to the natural structure of the data.
+Biological pathways data itself is extremely useful in life sciences basic research as well as in applied research in precision medicine or biotechnology. Graph database technologies enable the modeling of this kind of data in a way much closer to their natural structure.
 
-Reactome is a curated and manually reviewed database of biological pathways. It contains species-specific pathways being the _reaction_ the basic unit. The pathways are defined as the set of biological entities such as proteins, nucleic acids or small molecules that are involved in a set of reactions from a particular biological network together with the relations among them. 
+[Reactome](http://www.reactome.org/) is a curated and manually reviewed database of biological pathways. It contains species-specific pathways, with the _reaction_ being the basic unit. The pathways are defined as the set of biological entities such as proteins, nucleic acids or small molecules that are involved in a set of reactions from a particular biological network together with the relations among them. We will need to design a convenient graph model for all this, integrating not only the Reactome data but also all the existing links to other entities already in Bio4j (proteins, GO terms, etc).
 
-The applicant should be able to read biological texts and understand basic molecular biological concepts. 
-
+A biology/bioinformatics background would be almost necessary; you should be able to read biological texts and understand basic molecular biology concepts.
 
 ### Expected outcome
 
 A/some bio4j module/s providing access to Reactome data linked with bio4j model entities. 
-
 
 ### Mentors
 
