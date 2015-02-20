@@ -10,6 +10,7 @@ This is the list of ideas that we propose; this does not mean that you are force
 1. [Integrate sequence data into Bio4j](Integrate-sequence-data-into-Bio4j.md)
 1. [Integrate Reactome into Bio4j](Integrate-Reactome-into-Bio4j.md)
 1. [Integrate Metacyc into Bio4j](Integrate-Metacyc-into-Bio4j.md)
+1. [Scarph based Bio4j shell](Scarph-based-Bio4j-shell.md)
 
 
 ### Submitting your proposal
