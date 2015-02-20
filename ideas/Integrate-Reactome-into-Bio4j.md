@@ -21,6 +21,7 @@ Some of the mentors that might be involved in the idea
     He's got a strong background in human biology and special interest in human signalling pathways.
 - **[@rtobes](https://github.com/rtobes)** (<mailto:rtobes@era7.com>)
     She led and supervised the definition and implementation of the biological data model of the current Bio4j modules (UniProt, GO, EnzymeDB and NCBI taxonomy)
+- **[@mckays630](https://github.com/mckays630)** from Reactome
 - **[@marina_manrique](https://github.com/rtobes)** (<mailto:mmanrique@era7.com>)
 - **[@eparejatobes](https://github.com/eparejatobes)** (<mailto:eparejatobes@ohnosequences.com>)
     
